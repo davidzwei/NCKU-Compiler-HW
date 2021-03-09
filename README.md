@@ -1,2 +1,2 @@
-# Compiler-for-uGo-
+# Compiler-for-Go
 a simple compiler for uGo
